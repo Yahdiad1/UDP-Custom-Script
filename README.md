@@ -28,14 +28,4 @@ The "UDP Custom Manager" script enables UDP on a 64-bit VPS, provides functional
 1. **Access the SSLAB UDP Panel**:
     ```sh
     menu
-    ```
 
-## Credit
-
-This UDP Custom Manager script is made by Project SSLAB LK.
-UDP Custom By ePro Dev. Team.
-
-## Contact Us
-
-- [Telegram Channel (Shay Studio Lab)](https://t.me/shaystudiolab)
-- [GitHub (noobconner21)](https://github.com/noobconner21)
